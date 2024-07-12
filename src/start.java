@@ -33,7 +33,7 @@ public class start {
         } else if (Radiante) {
             nivelFinal = "Radiante";
         }
-        System.out.println("O jogador " + nomeHeroi + " "+ "está no nível " + nivelFinal + ".");
+        System.out.println("O jogador " + nomeHeroi + " " + "está no nível " + nivelFinal + ".");
         }
     }
 
